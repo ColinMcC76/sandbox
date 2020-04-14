@@ -13,7 +13,7 @@
 
 <body>
     <div class='col-12 d-flex justify-content-around'>
-        <!-- <p>Hello world this is my php sandbox page.</p> -->
+        <p>Hello world this is my php sandbox page.</p>
         <?php
         // $x = 10;
         // for ($y = 0; $y <= $x; $y++) {
